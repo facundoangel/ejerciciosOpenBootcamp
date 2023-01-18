@@ -106,7 +106,7 @@ function App() {
 
           <CardContent sx={{ paddingTop: "20px" }}>
             <Typography gutterBottom variant="h5" component="div">
-              Ejercicio 13, 14 y 15: Chistes Chuck Norris
+              Ejercicio 19, 20 y 21: Chistes Chuck Norris
             </Typography>
             <Typography
               sx={{ padding: "10px 0" }}
